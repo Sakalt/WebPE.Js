@@ -1,5 +1,5 @@
 # WebPE.Js
-https://sakalt.github.io/WebPE.js/public/index.html
+https://sakalt.github.io/WebPE.Js/public/index.html
 ### What is this?
 This is an implementation of the Minecraft: Bedrock Edition network protocol in Javascript.
 This package is intended to work on browsers with WebSocket communications built in.
